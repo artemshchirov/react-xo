@@ -20,6 +20,7 @@ ul {
 }
 
 .status {
+  font-size: 50px;
   margin-bottom: 15px;
   text-align: center;
   color: white;
@@ -27,9 +28,10 @@ ul {
 
 .square {
   background: #fff;
+  color: red;
   border: 1px solid #999;
   float: left;
-  font-size: 24px;
+  font-size: 75px;
   font-weight: bold;
   line-height: 34px;
   height: 175px;
